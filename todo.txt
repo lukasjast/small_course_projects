@@ -2,5 +2,5 @@ Secret_Auction:  Create a function that checks if all the players are at least 1
                  If someone is not, the function should delete his dictionary from the players list.
 
 Flashcards:  Create a program for language learning.
-             -function for printing all the words
-             -function for limited draw scope
+             - function for printing all the words
+             - function for limited draw scope
