@@ -31,5 +31,5 @@ logA = calc_log(KuA)
 logB = calc_log(KuB)
 logC = calc_log(KuC)
 logD = calc_log(KuD)
-print(log)
+print(logA)
 

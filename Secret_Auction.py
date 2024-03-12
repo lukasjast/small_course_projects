@@ -25,4 +25,3 @@ for i in range(players_amount):
     new_bidder(name, bid, age)
 
 find_winner(bidders_list)
-### test
